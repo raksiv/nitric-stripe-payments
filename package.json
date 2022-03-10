@@ -1,0 +1,22 @@
+{
+  "name": "NitricStripePayments",
+  "version": "1.0.0",
+  "description": "Simple Stripe Examples, using Nitric",
+  "author": "You :)",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.49.0",
+    "@nitric/sdk": "0.3.0-rc.17",
+    "aws-sdk": "^2.1066.0",
+    "dotenv": "^15.0.0",
+    "mustache": "^4.2.0",
+    "path-parser": "^6.1.0",
+    "stripe": "^8.201.0",
+    "typescript": "^4.4.2",
+    "uuidv4": "^6.2.12"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2"
+  }
+}
